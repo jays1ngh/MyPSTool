@@ -1,3 +1,20 @@
+# Test
+
+*Applies to: Microsoft Office*
+
+Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+
+ Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+
+ Click Insert and then choose the elements you want from the different galleries.:  
+
+- [Link 1](readme.md)
+- [Link 2](readme.md)
+- [Link 3](readme.md)
+- [Link 4](readme.md)
+
+Test line with some information [Link 1](readme.md) to learn about all the options that are available.
+
 ## This is a test document
 Something strange happened and all of a sudden I could not find my personal/all Microsoft forms on forms.microsoft.com and I looked everywhere to figure out where my all Microsoft forms were stored.
 
